@@ -67,7 +67,6 @@ body.container-all > main.container-sections > section.container-info > div.cont
   transition: all ease 0.5s;
   font-size: 17px;
   cursor: pointer;
-  text-decoration: underline;
 }
 body.container-all > main.container-sections > section.container-info > div.container__player > h3 {
   width: 100%;
